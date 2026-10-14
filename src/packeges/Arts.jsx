@@ -10,11 +10,11 @@ function Arts() {
                     <CenterHeading1 text='Recent News & Articles' />
                     <div className='flex gap-x-[24px] justify-center'>
                         <Sec text1='Where Should I Buy Next?' text2='Carter Rosser' text3='24/08/2021' text4='From romantic getaways to adventurous
-                            hikes, find your next...' text5='See More' src='src/assets/com1.png' src2='src/assets/Arts1.png' />
+                            hikes, find your next...' text5='See More' src='src/assets/com1-test.png' src2='src/assets/Arts1.png' />
                         <Sec text1='Malesuada Fermentum Tortor' text2='Carter Rosser' text3='24/08/2021' text4='From romantic getaways to adventurous
-                            hikes, find your next...' text5='See More' src='src/assets/com2.png' src2='src/assets/Arts2.png'/>
+                            hikes, find your next...' text5='See More' src='src/assets/com2-test.png' src2='src/assets/Arts2.png'/>
                         <Sec text1='Magna Malesuada' text2='Carter Rosser' text3='24/08/2021' text4='From romantic getaways to adventurous
-                            hikes, find your next...' text5='See More' src='src/assets/com3.png'  src2='src/assets/Arts3.png'/>
+                            hikes, find your next...' text5='See More' src='src/assets/com3-test.png'  src2='src/assets/Arts3.png'/>
                     </div>
                 </div>
             </div>
